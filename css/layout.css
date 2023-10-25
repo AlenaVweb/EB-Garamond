@@ -1,0 +1,32 @@
+body {
+    background-color: #F3EFEC;
+    margin:0 auto;
+}
+.firstbox{
+    border: 2px solid black;
+    width: 1360px;
+    height: 742px;
+    padding: 40px;
+    margin: 40px auto 0;
+    background: url(../svg/fish1.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.firstsection h1 {
+    font-size: 70px;
+    font-family: 'Eb Garamond Italic';
+    color: black;
+    padding-left: 45px;
+    padding-top: 21px;
+}
+.firstsection h2{
+    font-size: 50px;
+    font-family: 'Eb Garamond Regular';
+    color: black;
+    padding-right: 48px;
+    padding-top: 41px;
+}
+.firstline {
+    display:flex;
+    justify-content: space-between;
+}
